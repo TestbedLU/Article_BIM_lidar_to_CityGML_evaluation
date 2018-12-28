@@ -11,9 +11,13 @@ __Content__:
 3. revit2kristallen_LOD1_LOD2.fmw - Transforming Lund City Hall to LOD1.2, LOD1.3 and LOD2.3
 4. revit2undervisningshuset.fmw - Transforming KTH Educational Building to LOD1.2, LOD1.3 and LOD2.3
 
-Due to lack of permission the workbencehes are published without IFC models.
+The workbencehes are published without IFC models due to lack of permission.
 
 For KTH Educational Building the script also adds a terrain intersection line to the CityGML building model if the BIM model is placed in a Digital Elevation Model (DEM).
+
+## Built with
+[FME](https://www.safe.com/) - Safe Software
+
 
 ## License
 
